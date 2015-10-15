@@ -38,6 +38,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.pgb_progress = new System.Windows.Forms.ProgressBar();
             this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_Convert
@@ -54,7 +55,7 @@
             // 
             this.tb_in.Location = new System.Drawing.Point(12, 58);
             this.tb_in.Name = "tb_in";
-            this.tb_in.Size = new System.Drawing.Size(456, 154);
+            this.tb_in.Size = new System.Drawing.Size(458, 154);
             this.tb_in.TabIndex = 1;
             this.tb_in.Text = "";
             this.tb_in.TextChanged += new System.EventHandler(this.tb_in_TextChanged);
@@ -72,7 +73,7 @@
             // 
             this.tb_out.Location = new System.Drawing.Point(12, 263);
             this.tb_out.Name = "tb_out";
-            this.tb_out.Size = new System.Drawing.Size(456, 255);
+            this.tb_out.Size = new System.Drawing.Size(458, 255);
             this.tb_out.TabIndex = 3;
             this.tb_out.Text = "";
             // 
@@ -87,7 +88,7 @@
             // 
             // btn_switch
             // 
-            this.btn_switch.Location = new System.Drawing.Point(180, 224);
+            this.btn_switch.Location = new System.Drawing.Point(11, 218);
             this.btn_switch.Name = "btn_switch";
             this.btn_switch.Size = new System.Drawing.Size(122, 23);
             this.btn_switch.TabIndex = 5;
@@ -99,7 +100,7 @@
             // 
             this.tb_console.Location = new System.Drawing.Point(12, 524);
             this.tb_console.Name = "tb_console";
-            this.tb_console.Size = new System.Drawing.Size(456, 70);
+            this.tb_console.Size = new System.Drawing.Size(458, 70);
             this.tb_console.TabIndex = 6;
             this.tb_console.Text = "";
             this.tb_console.TextChanged += new System.EventHandler(this.tb_console_TextChanged);
@@ -118,19 +119,29 @@
             // 
             this.pgb_progress.Location = new System.Drawing.Point(239, 11);
             this.pgb_progress.Name = "pgb_progress";
-            this.pgb_progress.Size = new System.Drawing.Size(229, 23);
+            this.pgb_progress.Size = new System.Drawing.Size(231, 23);
             this.pgb_progress.TabIndex = 8;
             this.pgb_progress.Click += new System.EventHandler(this.progressBar1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(373, 237);
+            this.button2.Location = new System.Drawing.Point(139, 218);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(95, 23);
+            this.button2.Size = new System.Drawing.Size(115, 23);
             this.button2.TabIndex = 9;
-            this.button2.Text = "Copy 2 Clipboard";
+            this.button2.Text = "Output 2 Clipboard";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(395, 218);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 10;
+            this.button3.Text = "Help";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Form1
             // 
@@ -140,6 +151,7 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(482, 604);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.pgb_progress);
             this.Controls.Add(this.button1);
@@ -171,6 +183,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ProgressBar pgb_progress;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 

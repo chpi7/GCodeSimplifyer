@@ -125,5 +125,10 @@ namespace GCodeSimplifyer
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(">==========<HELP>==========<\nRemove Decimals:\nX3.5123 Y1.56 \n==>\nX3 Y1\n\nRemoveClones:\nX2 Y2\nX2 Y2\n==>\nX2 Y2");
+        }
     }
 }
