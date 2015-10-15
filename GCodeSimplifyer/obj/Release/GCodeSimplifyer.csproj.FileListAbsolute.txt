@@ -1,0 +1,8 @@
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\bin\Release\GCodeSimplifyer.exe.config
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\bin\Release\GCodeSimplifyer.exe
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\bin\Release\GCodeSimplifyer.pdb
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Release\GCodeSimplifyer.Form1.resources
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Release\GCodeSimplifyer.Properties.Resources.resources
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Release\GCodeSimplifyer.csproj.GenerateResource.Cache
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Release\GCodeSimplifyer.exe
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Release\GCodeSimplifyer.pdb

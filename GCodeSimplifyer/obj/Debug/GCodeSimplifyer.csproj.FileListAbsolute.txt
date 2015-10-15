@@ -1,0 +1,9 @@
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\bin\Debug\GCodeSimplifyer.exe.config
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Debug\GCodeSimplifyer.csprojResolveAssemblyReference.cache
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Debug\GCodeSimplifyer.Form1.resources
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Debug\GCodeSimplifyer.Properties.Resources.resources
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Debug\GCodeSimplifyer.csproj.GenerateResource.Cache
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\bin\Debug\GCodeSimplifyer.exe
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\bin\Debug\GCodeSimplifyer.pdb
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Debug\GCodeSimplifyer.exe
+X:\Programmieren\GCodeSimplifyer\GCodeSimplifyer\obj\Debug\GCodeSimplifyer.pdb
