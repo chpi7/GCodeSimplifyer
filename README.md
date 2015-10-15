@@ -9,6 +9,8 @@ As a result of Function 1 there may be duplicate lines, thats why there is:
 Function 2: Remove duplicates
 
 
+Planned update: Improve Remove Decimal function to not only remove the numbers after the decimal point but to round the numbers and get rid of the decimals that way.
+
 I made this software for my DIY Plotter which only uses whole numbers and making
 this programm was the fastest way to achieve a clean set of instructions for my machine.
 
