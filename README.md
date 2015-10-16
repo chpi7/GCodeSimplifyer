@@ -4,6 +4,7 @@ GCode Editing Software
 This Software is used to simplify GCode to use with simpler machines. 
 
 Function 1: Convert all values to integers
+
 As a result of Function 1 there may be duplicate lines, thats why there is:
 
 Function 2: Remove duplicates
